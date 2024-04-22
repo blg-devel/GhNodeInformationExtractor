@@ -1,0 +1,5 @@
+name: "GhNodeInformationExtractor"
+description: "Extracts information of the github action node runtime"
+runs:
+  using: node20
+  main: dist/index.js
